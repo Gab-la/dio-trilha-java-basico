@@ -16,3 +16,9 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+# dio-trilha-java-basico
+Repositório do curso de Java básico pela DIO
+
+## Sobre o Projeto
+Este repositório contém os exercícios e projetos desenvolvidos durante o curso de Java básico da DIO.
